@@ -1,24 +1,3 @@
-! name: Block All Social Media
-! description: Remove results from main social media and video platforms
-! public: true
-! author: https://github.com/alexpiut
-! homepage: https://github.com/alexpiut/google-no-social-media
-
-$discard,site=facebook.com
-$discard,site=twitter.com
-$discard,site=instagram.com
-$discard,site=tiktok.com
-$discard,site=linkedin.com
-$discard,site=pinterest.com
-$discard,site=etsy.com
-$discard,site=walmart.com
-$discard,site=shopify.com
-$discard,site=youtube.com
-$discard,site=snapchat.com
-$discard,site=reddit.com
-$discard,site=discord.com
-$discard,site=twitch.tv
-$discard,site=quora.com
 ! name: Block All Social Media (with www)
 ! description: Remove results from main social media and video platforms, including www variants
 ! public: true
