@@ -34,3 +34,6 @@ $discard,site=twitch.tv
 $discard,site=www.twitch.tv
 $discard,site=quora.com
 $discard,site=www.quora.com
+$discard,site=en.wikipedia.org
+$discard,site=es.wikipedia.org
+$discard,site=fr.wikipedia.org
